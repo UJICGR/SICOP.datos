@@ -1,0 +1,11 @@
+Package: SICOP.datos
+Type: Package
+Title: SICOP.datos(sistema de compras de Costa Rica)
+Version: 0.1.0
+Author: Alejandro Herrera López
+Maintainer: Alejandro Herrera López <alejandro.herrera@cgr.go.cr>
+Description: Datos de las adjudicaciones en los procesos de compras del SICOP
+        desde el 2010 hasta 2018, estamos por incorporar más datos.    
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
